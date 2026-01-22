@@ -5,7 +5,6 @@
 Nesse programa, expandi meus aprendizados, utilizando `Long` e a `%`, embora ainda um pouco confusos para mim, acredito que foi um bom avanço!
 O Credit vai ser um dregau acima do Cash, neste programa a intenção será identificar o cartão dentre esses:
 
-### Moedas Disponíveis:
 * AMEX
 * MASTERCARD
 * VISA
