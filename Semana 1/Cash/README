@@ -1,4 +1,4 @@
-# Cash - CC50
+# CC50 - Cash
 
 Neste programa vou trabalhar e entender melhor o "Greedy Algorithm", ou "Algoritmo Ganancioso".
 A ideia desse programa é a seguinte:
@@ -7,7 +7,7 @@ Supondo que o valor que devemos ao cliente é 36 centavos, devemos dar 1 moeda d
 Caso o usuário digite um número negativo ou alguma letra, o programa deve rejeitar e solicitar novamente o número.
 
 ### Exemplo de execução:
-Quando o troco inserido é `35`, será imprimido `2`, unma de 25 centavos e outra de 10 centavos.:
+Quando o troco inserido é `35`, será imprimido `2`, unma de 25 centavos e outra de 10 centavos.
 ```text
 $ ./cash
 Troco devido: 35
